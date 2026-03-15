@@ -36,6 +36,14 @@ This project uses the following tools:
 ```
 blackhole_penrose_project
 │
+├── figures
+│   ├── figure_11_1.png
+│   ├── figure_11_1_extra.png
+│   ├── figure_11_3.png
+│   ├── figure_11_3_extra.png
+│   ├── figure_11_6.png
+│   ├── figure_extra_rnbh.png
+│   └── perose_diagram.png
 ├── src
 │   └── functions
 │       ├── functions_blackholes.py

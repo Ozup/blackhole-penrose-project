@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import functions_blackholes as fbh
-import functions_aux as fa
+from . import functions_blackholes as fbh
+from . import functions_aux as fa
 
 
 import importlib
