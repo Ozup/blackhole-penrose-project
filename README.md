@@ -31,12 +31,16 @@ This project uses the following tools:
 
 ## Project Structure
 
+## Project Structure
+
+```
 blackhole_penrose_project
 │
 ├── src
 │   └── functions
 │       ├── functions_blackholes.py
-│       └── functions_aux.py
+│       ├── functions_aux.py
+│       └── functions_penrose_tf.py
 │
 ├── notebooks
 │   ├── hobson_book_figures_replication.ipynb
@@ -44,3 +48,4 @@ blackhole_penrose_project
 │
 ├── requirements.txt
 └── README.md
+```
